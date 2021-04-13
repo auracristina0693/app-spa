@@ -1,0 +1,51 @@
+.card {
+  background-color: white;
+
+  color: #5d5d5d;
+  width: 300px;
+  margin: 20px;
+}
+
+.card__title {
+  font-size: 14px;
+  padding: 15px;
+  margin: 0;
+  border-bottom: 1px solid #5d5d5d;
+}
+
+.card__description {
+  font-weight: bold;
+  font-size: 24px;
+  padding: 0 15px;
+}
+
+.card__values {
+  padding: 0 15px;
+  display: flex;
+  justify-content: space-between;
+  background-color: lightskyblue;
+}
+
+.bg_lightskyblue {
+  background-color: lightskyblue;
+}
+
+.bg_lightsalmon {
+  background-color: lightsalmon;
+}
+
+.bg_limegreen {
+  background-color: limegreen;
+}
+
+.bg_purple {
+  background-color: mediumpurple;
+}
+
+.bg_rose {
+  background-color: mistyrose;
+}
+
+.bg_orange {
+  background-color: orange;
+}

@@ -1,0 +1,13 @@
+.content {
+  background-color: #eef4f5;
+  width: 100%;
+}
+
+.content h1 {
+  margin-left: 20px;
+}
+
+.content_cards {
+  display: flex;
+  flex-wrap: wrap;
+}
